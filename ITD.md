@@ -90,9 +90,8 @@ These instructions come from **Step 4** in the `#cyf-intro-to-digital-course` ca
 	```
 	This takes you to a page where you enter your email address and you will then get sent an email to confirm your login and thereafter you will be able to access the dashboard directly.  If you have problems, post a question into the slack channel `#cyf-intro-to-digital-course`<br/>
 1. Once you are in, the home screen of the dashboard looks like this:<br/>
-	![the dashboard home screen](dashboardHome.png)
-	
-The menu at the top has links to the home page and the ITD programme.  There will be other programs linked here as and when they start and have applicants on them.
+	![the dashboard home screen](dashboardHome.png)<br/>
+	The menu at the top has links to the home page and the ITD programme.  There will be other programs linked here as and when they start and have applicants on them.
 
 ## Using the dashboard:  Seeing Applicants
 
