@@ -111,8 +111,11 @@ You can use the `FILTERS` button to filter the view and see applicants in differ
 
 If you click on `Review Steps` in the **Steps** box you will see a list of those applicants who have submitted work for one or more of the steps in the ITD syllabus.  The view is a subset of all the applicants and looks similar:<br/>
 	![list of applicants](listOfApplicantsEdited.png)<br/>
-	You can see that `Applicant 1` has submitted work for Step 0 but it hasn't yet been approved.  However `Applicant 2` has also submitted work for Step 0 and it has been approved because there is a tick in the **Steps** column.
+	* You can see that `Applicant 1` has submitted work for Step 0 but it hasn't yet been approved.  That is indicated by the `0` in the **Steps** column.  
+	* `Applicant 2` has also submitted work for Step 0 and it has been approved because there is a tick AND a 0 in the **Steps** column.
 	
+### How to view submissions
+
 * Click on the **name** of one of the applicants.  You will see a menu appear like this one:<br/>
 	![review options](reviewOptions.png).
 * If you click on **Steps** you will see what the applicant has submitted for the ITD steps.  The example below shows the applicant has submitted work for three steps and you are looking at their submission link for STEP 1:
