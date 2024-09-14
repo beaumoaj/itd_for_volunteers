@@ -62,11 +62,14 @@ On the following pages we will take you through all the necessary information on
 
 Before you can review the work submitted by applicants, you should familiarise yourself with the syllabus.
 
-The syllabus for ITD is here: [https://cyf-itd.netlify.app/](https://cyf-itd.netlify.app/). This is a screenshot of the syllabus home page: ![syllabus home page](syllabusHome.png)
+The syllabus for ITD is here: [https://cyf-itd.netlify.app/](https://cyf-itd.netlify.app/). This is a screenshot of the syllabus home page:<br/>
+	![syllabus home page](syllabusHome.png)
 
 Applicants will work through the steps week by week.  Each step contains instructions for the applicants to do complete a task which they should then submit.  Volunteers can find these submissions on the dashboard and give feedback.  There is a page which just contains the steps in order and that is here: [https://cyf-itd.netlify.app/steps/](https://cyf-itd.netlify.app/steps/).  The Workshops will be organised by each region, and are designed to be face-to-face opportunities for applicants to ask questions and clarify their learning.  Workshops will be advertised on Eventbrite and advertised in slack.
 
-You will find that each step has a number of sub-components reachable via a menu which looks like this: ![Components of a step are Instructions Acceptance Criteria Submission Help and Extensions](./StepComponents.png).
+You will find that each step has a number of sub-components reachable via a menu which looks like this:<br/>
+	![Components of a step are Instructions Acceptance Criteria Submission Help and Extensions](./StepComponents.png).
+
 * The **Instructions** tell the applicant what to do.  Volunteers should read this too so that you fully understand what is being asked of the volunteers in each step.
 * The **acceptance criteria** list everything the the applicant must do to successfully complete the step.  
 * The **Submission** item tells the applicants what to submit.  Volunteers can find these submissions in the dashboard.  
@@ -85,45 +88,52 @@ These instructions come from **Step 4** in the `#cyf-intro-to-digital-course` ca
 	Important: If you already completed this form in some point please click here.
 	```
 	This takes you to a page where you enter your email address and you will then get sent an email to confirm your login and thereafter you will be able to access the dashboard directly.  If you have problems, post a question into the slack channel `#cyf-intro-to-digital-course`<br/>
-1. Once you are in, the home screen of the dashboard looks like this: 
+1. Once you are in, the home screen of the dashboard looks like this:<br/>
 	![the dashboard home screen](dashboardHome.png)
 	
 The menu at the top has links to the home page and the ITD programme.  There will be other programs linked here as and when they start and have applicants on them.
 
 ## Using the dashboard:  Seeing Applicants
 
-If you click on `See Applicants` in the **New Applicants** box, you will see a list of all the new applicants.
+If you click on `See Applicants` in the **New Applicants** box, you will see a list of all the new applicants.<br/>
 	![list of applicants](listOfApplicantsEdited.png)
 
-You can filter to see applicants in different areas, although you may only be able to access your local area's applicants. In my screen I can download a CSV file containing the details of the applicants, but you may not have this option.
+	
+The blue Email button allows you to email applicants.
+	
+In my screen I can download a CSV file containing the details of the applicants, but you may not have this option.
+
+You can use the `FILTERS` button to filter the view and see applicants in different areas, or limit the steps displayed.  This screenshot shows some of the filter options:<br/>
+	![The filter options](filters.png)
+
 
 ## Using the dashboard: Reviewing work submitted by applicants
 
-If you click on `Review Steps` in the **Steps** box you will see a list of those applicants who have submitted work for one or more of the steps in the ITD syllabus.  The view is a subset of all the applicants and looks similar:
+If you click on `Review Steps` in the **Steps** box you will see a list of those applicants who have submitted work for one or more of the steps in the ITD syllabus.  The view is a subset of all the applicants and looks similar:<br/>
 	![list of applicants](listOfApplicantsEdited.png)<br/>
 	You can see that `Applicant 1` has submitted work for Step 0 but it hasn't yet been approved.  However `Applicant 2` has also submitted work for Step 0 and it has been approved because there is a tick in the **Steps** column.
 	
-* Click on the **name** of one of the applicants.  You will see a menu appear like this one:
+* Click on the **name** of one of the applicants.  You will see a menu appear like this one:<br/>
 	![review options](reviewOptions.png).
 * If you click on **Steps** you will see what the applicant has submitted for the ITD steps.  The example below shows the applicant has submitted work for three steps and you are looking at their submission link for STEP 1:
 	![reviewing steps](reviewSteps.png)
 	Clicking the **Submitted** link will allow you to see their submitted work.  
 
 Here are the things you can do when reviewing an applicant's work:
-* **Communicating with the applicant**: If you click the comment button 
-	![comment button](commentButton.png)
+* **Communicating with the applicant**: If you click the comment button<br/>
+	![comment button](commentButton.png)<br/>
 	you can see comments left by other volunteers and add your own comments.  You should post a comment back to the applicant if you have questions and you are not yet able to approve or reject the work.
-* **Approving work**:  When you are ready to approve the submitted work as meeting the acceptance criteria, click the Approve button.  If you want to highlight work that you thought was good practice (or bad practice), leave a comment. 
+* **Approving work**:  When you are ready to approve the submitted work as meeting the acceptance criteria, click the Approve button.  If you want to highlight work that you thought was good practice (or bad practice), leave a comment.<br/>
 	![approve the work](reviewApprove.png)
-* **Rejecting work**: If you are rejecting the work as not meeting the acceptance criteria, click the reject button 
-	![rejecting work](reviewReject.png)
+* **Rejecting work**: If you are rejecting the work as not meeting the acceptance criteria, click the reject button<br/>
+	![rejecting work](reviewReject.png)<br/>
 	You should leave comments to say why the work was rejected.
-* **Undoing a decision**: If you want to change your mind about approving or rejecting a piece of work, can click the Undo button as shown in this screenshot:
+* **Undoing a decision**: If you want to change your mind about approving or rejecting a piece of work, can click the Undo button as shown in this screenshot:<br/>
 	![Undoing a decision](undoButton.png)
 
 ## Using the dashboard: Workshops
 
-If you click the **Workshops** option under a applicant's name, you are able to record whether or not they attended a workshop and leave some text as context.  Here is what the option looks like:
+If you click the **Workshops** option under a applicant's name, you are able to record whether or not they attended a workshop and leave some text as context.  Here is what the option looks like:<br/>
 	![workshop records](workshops.png)
 
 ## To be continued...
