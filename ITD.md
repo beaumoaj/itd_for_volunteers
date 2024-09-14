@@ -145,7 +145,7 @@ If you click the **Workshops** option under a applicant's name, you are able to 
 	
 ## Useful URLs
 
-Here is a quick list of important links (some are for applicants only, but it is helpful to know them if an applicant has a problem):
+Here is a quick list of useful links (some are for applicants only, but it is helpful to know them if an applicant has a problem):
 * **The ITD Syllabus:** [https://cyf-itd.netlify.app/](https://cyf-itd.netlify.app/).  There is an overview of **how ITD works** in the syllabus here: [https://cyf-itd.netlify.app/how-itd-works/](https://cyf-itd.netlify.app/how-itd-works/).
 * **ITD signup page (for applicants only):** [https://codeyourfuture.io/itc/](https://codeyourfuture.io/itc/)
 * **CYF Learning Platform (for applicants only):** [https://course1.codeyourfuture.io/](https://course1.codeyourfuture.io/)
