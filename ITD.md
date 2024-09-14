@@ -18,6 +18,11 @@ The Introduction to Digital course is known as ITD.  You can find an overview of
 
 The role of volunteers is to review submissions by applicants and respond with feedback.  The submissions will be found on the Dashboard.  See below for the instructions on how to access the dashboard.
 
+> aside positive
+> ### Important
+> 
+> Reviewing work submitted by the applicants is a core task for volunteers.  You should prioritise reviewing submitted work when you have free time available.
+
 The Slack channel `#cyf-intro-to-digital-course` is for volunteers to discuss and ask questions, for example if you have questions about reviewing applicants work.  This channel has a canvas containing important information [https://codeyourfuture.slack.com/canvas/C01332PNRTN](https://codeyourfuture.slack.com/canvas/C01332PNRTN).  You **should read the canvas first**.  This document contains additional information to help you find your way around as a volunteer.
 
 ### What you should already know
@@ -94,13 +99,9 @@ You can filter to see applicants in different areas, although you may only be ab
 ## Using the dashboard: Reviewing work submitted by applicants
 
 If you click on `Review Steps` in the **Steps** box you will see a list of those applicants who have submitted work for one or more of the steps in the ITD syllabus.  The view is a subset of all the applicants and looks similar:
-	![list of applicants](listOfApplicantsEdited.png)
+	![list of applicants](listOfApplicantsEdited.png)<br/>
+	You can see that `Applicant 1` has submitted work for Step 0 but it hasn't yet been approved.  However `Applicant 2` has also submitted work for Step 0 and it has been approved because there is a tick in the **Steps** column.
 	
-> aside positive
-> ### Important
-> 
-> Reviewing work submitted by the applicants is a core task for volunteers.  You should prioritise reviewing submitted work.
-
 * Click on the **name** of one of the applicants.  You will see a menu appear like this one:
 	![review options](reviewOptions.png).
 * If you click on **Steps** you will see what the applicant has submitted for the ITD steps.  The example below shows the applicant has submitted work for three steps and you are looking at their submission link for STEP 1:
