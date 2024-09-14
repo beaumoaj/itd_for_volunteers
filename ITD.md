@@ -143,7 +143,7 @@ When reviewing a submission there are three things you can do:
 If you click the **Workshops** option under a applicant's name, you are able to record whether or not they attended a workshop and leave some text as context.  Here is what the option looks like:<br/>
 	![workshop records](workshops.png)
 	
-## Important URLs
+## Useful URLs
 
 Here is a quick list of important links (some are for applicants only, but it is helpful to know them if an applicant has a problem):
 * **The ITD Syllabus:** [https://cyf-itd.netlify.app/](https://cyf-itd.netlify.app/).  There is an overview of **how ITD works** in the syllabus here: [https://cyf-itd.netlify.app/how-itd-works/](https://cyf-itd.netlify.app/how-itd-works/).
