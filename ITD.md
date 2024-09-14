@@ -142,5 +142,14 @@ When reviewing a submission there are three things you can do:
 
 If you click the **Workshops** option under a applicant's name, you are able to record whether or not they attended a workshop and leave some text as context.  Here is what the option looks like:<br/>
 	![workshop records](workshops.png)
+	
+## Important URLs
+
+Here is a quick list of important links (some are for applicants only, but it is helpful to know them if an applicant has a problem):
+* **The ITD Syllabus:** [https://cyf-itd.netlify.app/](https://cyf-itd.netlify.app/).  There is an overview of **how ITD works** in the syllabus here: [https://cyf-itd.netlify.app/how-itd-works/](https://cyf-itd.netlify.app/how-itd-works/).
+* **ITD signup page (for applicants only):** [https://codeyourfuture.io/itc/](https://codeyourfuture.io/itc/)
+* **CYF Learning Platform (for applicants only):** [https://course1.codeyourfuture.io/](https://course1.codeyourfuture.io/)
+* **ITD Canvas:** [https://codeyourfuture.slack.com/canvas/C01332PNRTN](https://codeyourfuture.slack.com/canvas/C01332PNRTN).  The canvas is the official CYF information about ITD.  The canvas is attached to the **ITD slack channel:** [https://codeyourfuture.slack.com/archives/C01332PNRTN](https://codeyourfuture.slack.com/archives/C01332PNRTN).  Post into the slack channel if you have questions or problems.
+* **CYF Dashboard:** [https://dashboard.codeyourfuture.io/](https://dashboard.codeyourfuture.io/).  Use the dashboard to view applicant progress.
 
 ## To be continued...
