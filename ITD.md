@@ -122,17 +122,21 @@ If you click on `Review Steps` in the **Steps** box you will see a list of those
 	![reviewing steps](reviewSteps.png)
 	Clicking the **Submitted** link will allow you to see their submitted work.  
 
-Here are the things you can do when reviewing an applicant's work:
-* **Communicating with the applicant**: If you click the comment button<br/>
+### How to review a submission
+
+When reviewing a submission there are three things you can do:
+* **Communicating with the applicant**: If you click the **Comments button**<br/>
 	![comment button](commentButton.png)<br/>
-	you can see comments left by other volunteers and add your own comments.  You should post a comment back to the applicant if you have questions and you are not yet able to approve or reject the work.
-* **Approving work**:  When you are ready to approve the submitted work as meeting the acceptance criteria, click the Approve button.  If you want to highlight work that you thought was good practice (or bad practice), leave a comment.<br/>
-	![approve the work](reviewApprove.png)
-* **Rejecting work**: If you are rejecting the work as not meeting the acceptance criteria, click the reject button<br/>
+	you can see comments left by other volunteers and add your own comments.  You should post a comment back to the applicant if you have questions and you are not yet able to approve or reject the work.  It is also good practice to post a comment when you reject a submission so the applicant can see why their work was rejected.  You can comment after approving work to highlight what the applicant did well.
+* **Approving work**:  When you are ready to approve the submitted work as meeting the acceptance criteria, click the **Approve button**.  If you want to highlight work that you thought was good practice (or bad practice), leave a comment.<br/>
+	![approve the work](reviewApprove.png)<br/>
+	Do not approve the work unless it meets the acceptance criteria.
+* **Rejecting work**: If you are rejecting the work as not meeting the acceptance criteria, click the **Reject button**<br/>
 	![rejecting work](reviewReject.png)<br/>
 	You should leave comments to say why the work was rejected.
 * **Undoing a decision**: If you want to change your mind about approving or rejecting a piece of work, can click the Undo button as shown in this screenshot:<br/>
-	![Undoing a decision](undoButton.png)
+	![Undoing a decision](undoButton.png)<br/>
+	You should post a comment to the applicant to let them know why the decision was changed.
 
 ## Using the dashboard: Workshops
 
